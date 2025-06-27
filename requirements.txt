@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+deap
+tensorflow
+keras
+scikit-optimize
