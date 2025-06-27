@@ -1,4 +1,4 @@
-# Digital Twin for Cardiovascular Disease Prediction using ACO, SMOTE, CNN & Bayesian Optimization
+# Digital Twin for Cardiovascular Disease Prediction using Machine Learning and Deep Learning
 
 This project aims to build a **Digital Twin system for predicting Cardiovascular Diseases (CVD)** using a hybrid machine learning approach:
 - **ACO (Ant Colony Optimization)** for feature selection
@@ -17,7 +17,7 @@ This project aims to build a **Digital Twin system for predicting Cardiovascular
 
 ##  Dataset
 
-The dataset used is **"Heart Disease Dataset (Comprehensive)"**, originally sourced from [Kaggle](https://www.kaggle.com/datasets/sid321axn/heart-statlog-cleveland-hungary-final). It has been preprocessed and doubled for SMOTE operations.
+The dataset used is **"Heart Disease Dataset (Comprehensive)"**, originally sourced from [Kaggle](https://www.kaggle.com/datasets/sid321axn/heart-statlog-cleveland-hungary-final). 
 
 ---
 
