@@ -23,12 +23,12 @@ The dataset used is **"Heart Disease Dataset (Comprehensive)"**, originally sour
 
 ##  Libraries and Frameworks Used
 
-- **Pandas** & **NumPy** – For data manipulation and preprocessing
-- **Scikit-learn** – For ML utilities, evaluation, and train/test splitting
-- **Imbalanced-learn (SMOTE)** – For handling imbalanced datasets
-- **DEAP** – For implementing Ant Colony Optimization
-- **TensorFlow/Keras** – For building and training the CNN model
-- **Scikit-Optimize (skopt)** – For Bayesian hyperparameter optimization
+- **Pandas** & **NumPy** – For data manipulation and preprocessing.
+- **Scikit-learn** – For ML utilities, evaluation, and train/test splitting.
+- **Imbalanced-learn (SMOTE)** – For handling imbalanced datasets.
+- **DEAP** – For implementing Ant Colony Optimization.
+- **TensorFlow/Keras** – For building and training the CNN model.
+- **Scikit-Optimize (skopt)** – For Bayesian hyperparameter optimization.
 
 ---
 
